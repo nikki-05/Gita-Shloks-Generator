@@ -48,11 +48,11 @@ To run this project locally, you need to have:
     ```
 2. Click the "Generate Random Shlok" button to display a new shloka.
 
-### Contributions are welcomed 
-
-               OR      
+    
 1.Copy this project in your local system
 2.go to the directory 
 Example  D:\New folder (3)\GameZone\Games> cd Gita_Shloka_Generator
 4. Type http-server
 5. Click the link and run the project
+
+## Contributions are Welcomed . :)
