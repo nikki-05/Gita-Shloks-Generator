@@ -1,8 +1,8 @@
 # Gita-Shloks-Generator
-# ༗🪈🪶🦚राधे राधे𓃔🦚
+# ༗🪈🦚राधे राधे 𓃔 🦚
 
 ## Overview
-Bhagavad-gītā is also known as Gītopaniṣad. It is the essence of Vedic knowledge and one of the most important Upaniṣads in Vedic literature.The speaker of Bhagavad-gītā is Lord Śrī Kṛṣṇa. Lets dive into the spritual world with the help of shloka generator
+Bhagavad-gītā is also known as Gītopaniṣad. It is the essence of Vedic knowledge and one of the most important Upaniṣads in Vedic literature. The speaker of Bhagavad-gītā is Lord Śrī Kṛṣṇa. Let's dive into the spiritual world with the help of Shloka generator
 The Gita Shlok Generator is an interactive web application that displays random shlokas (verses) from the Bhagavad Gita. Each shloka includes its original Sanskrit text, transliteration, translation, and an explanation to help users understand the profound teachings of the Gita.
 
 ## Features
@@ -19,7 +19,6 @@ The Gita Shlok Generator is an interactive web application that displays random 
   - Bootstrap 5
   - TailwindCSS
 - JavaScript
-- jQuery
 
 ## Getting Started
 
@@ -47,7 +46,9 @@ To run this project locally, you need to have:
     ```sh
     open index.html
     ```
-2. Click on the "Generate Random Shlok" button to display a new shloka.
+2. Click the "Generate Random Shlok" button to display a new shloka.
+
+### Contributions are welcomed 
 
                OR      
 1.Copy this project in your local system
