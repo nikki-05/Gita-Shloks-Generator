@@ -23,7 +23,7 @@ The Gita Shlok Generator is an interactive web application that displays random 
 ## Getting Started
 
 ## Snapshot of the Page 
-[!image](https://raw.githubusercontent.com/nikki-05/Gita-Shloks-Generator/refs/heads/main/images/background.jpg)
+![image](https://raw.githubusercontent.com/nikki-05/Gita-Shloks-Generator/refs/heads/main/images/Snap.png)
 ### Prerequisites
 
 To run this project locally, you need to have:
