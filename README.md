@@ -22,6 +22,8 @@ The Gita Shlok Generator is an interactive web application that displays random 
 
 ## Getting Started
 
+## Snapshot of the Page 
+[!image](https://raw.githubusercontent.com/nikki-05/Gita-Shloks-Generator/refs/heads/main/images/background.jpg)
 ### Prerequisites
 
 To run this project locally, you need to have:
@@ -48,11 +50,11 @@ To run this project locally, you need to have:
     ```
 2. Click the "Generate Random Shlok" button to display a new shloka.
 
-    
-1.Copy this project in your local system
-2.go to the directory 
-Example  D:\New folder (3)\GameZone\Games> cd Gita_Shloka_Generator
-4. Type http-server
-5. Click the link and run the project
+->. Copy this project into your local system
+->.go to the directory 
+Example  D:\New folder\newproject\genrator\GitaSholksGenerator
 
-## Contributions are Welcomed . :)
+3.. Type http-server
+4.. Click the link and run the project
+
+## Contributions are Welcomed. :)
